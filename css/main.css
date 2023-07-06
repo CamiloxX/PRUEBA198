@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo__img {
+    width: 50%;
+    height: auto;
+  }
+  
+  .menu-list {
+    margin: auto;
+    
+  }
+  .menu_list_item{
+
+    display: inline-block;
+    margin: 0 .5rem;
+    font-size: 20px;
+  }
+  
+  .menu_list_item:last-child {
+  
+    margin-right: 0;
+  }
+  
